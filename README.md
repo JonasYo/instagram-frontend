@@ -23,7 +23,7 @@ cd instagram-frontend
 npm install
 ```
 
-![Image01](other_files/screenshot_feed.png) 
+![Image01](other_files/screenshot_feed.PNG) 
 
 
 ## License

@@ -16,7 +16,7 @@ Exemplificar requisições HTTP com um serviços REST utilizando um banco de dad
 # Primeiramente clone o repositório 
 https://github.com/JonasYo/instagram-frontend.git
 
-# 
+# Navegue até o diretório
 cd instagram-frontend
 
 # Instale as dependências NPM

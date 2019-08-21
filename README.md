@@ -4,7 +4,7 @@ Projeto desenvolvido na semana OmniStack 7 da Rocketseat utilizando React.
 
 ## Objetivos
 
-Os objetos deste projeto são:
+Os objetivos deste projeto são:
 
 Introduzir os conceitos básicos do React.
 Utilizar o NPM, Routes, Axios e Socket IO (Web Socket).
@@ -25,6 +25,8 @@ npm install
 
 ![Image01](other_files/screenshot_feed.PNG) 
 
+## Contribuições
+Pull requests são bem-vindos.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
